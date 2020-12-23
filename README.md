@@ -1,6 +1,6 @@
 # dev-causal-inference
 
-Data and analysis code for: Cohen, A.O.\*, Nussenbaum, K\*, Dorfman, H.M., Gershman, S.J., & Hartley, C.A. (in press). [The rational use of causal inference to guide reinforcement learning strengthens with age.](https://psyarxiv.com/j9zuk) *npj Science of Learning.*
+Data and analysis code for: Cohen, A.O.\*, Nussenbaum, K\*, Dorfman, H.M., Gershman, S.J., & Hartley, C.A. (2020). [The rational use of causal inference to guide reinforcement learning strengthens with age.](https://www.nature.com/articles/s41539-020-00075-3) *npj Science of Learning.*
 
 Anonymized trial-wise data for all participants are provided in anonymized_mining_data.csv. A key for the variable names in the header of this csv file is provided below. The data were minimally processed for flexible use in behavioral analyses and model-fitting. Both the Rmarkdown code and the Matlab code take this file as input. Summarized data from reported simulations can be found in accTable_realParams_sims.txt and are used in the Rmarkdown file to generate figures. Model-fitting analyses require the [mfit package](https://github.com/sjgershm/mfit). Data were loaded into Matlab using load_data.m and separated by age groups using sepDataAgeGroup.m prior to model-fitting.
 
