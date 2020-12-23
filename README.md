@@ -1,4 +1,4 @@
-# dev-causal-inference
+# The rational use of causal inference to guide reinforcement learning strengthens with age
 
 Data and analysis code for: Cohen, A.O.\*, Nussenbaum, K\*, Dorfman, H.M., Gershman, S.J., & Hartley, C.A. (2020). [The rational use of causal inference to guide reinforcement learning strengthens with age.](https://www.nature.com/articles/s41539-020-00075-3) *npj Science of Learning.*
 
